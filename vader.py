@@ -1,7 +1,7 @@
 import pandas as pd
 from nltk.sentiment import SentimentIntensityAnalyzer
 
-# Load your dataset
+
 df = pd.read_csv('imdb_sup_cleaned.csv')
 
 analyser = SentimentIntensityAnalyzer()
