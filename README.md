@@ -25,6 +25,9 @@ Data pre-processing techniques are important to provide clean textual data and e
 
 ## Explanatory Data Analysis (EDA)
 * Finding the distribution of positive and negative sentiment towards movie reviews
+  
+   ![alt text](https://github.com/shahirahkay/imdb_sentiment/blob/master/Sentiment%20from%20score.png "score")
+  
 * Built wordcloud to determine the most frequent words used in the reviews.
   
  ![alt text](https://github.com/shahirahkay/imdb_sentiment/blob/master/wordcloud.png "wordcloud")
